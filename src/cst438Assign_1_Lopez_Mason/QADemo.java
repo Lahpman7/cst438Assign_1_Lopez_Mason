@@ -6,7 +6,7 @@ public class QADemo {
 		
 			QuestionsAnswers queAn = new QuestionsAnswers();
 			System.out.println(queAn.getRandomQuestion());
-			System.out.println("asdfasdfadfa");
+			//System.out.println("asdfasdfadfa");
 			
 	    
 	}

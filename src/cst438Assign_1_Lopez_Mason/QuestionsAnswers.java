@@ -56,8 +56,9 @@ public class QuestionsAnswers {
 		return randomQuest;
 		//borrowed above sorting from Stackoverflow..
 	}
-
-	/*public static void main() {
+/*
+	public static void main() {
+		
 		QuestionsAnswers queAn = new QuestionsAnswers();
 		System.out.println(queAn.getRandomQuestion());
 		//System.out.println("asdfasdfadfa");
